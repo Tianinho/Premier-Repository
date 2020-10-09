@@ -1,0 +1,31 @@
+[ 2020-09-23T07:34:49+08:00 ] ::1 /www.shop11.com/Home/Note/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001392s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001242s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001276s ]
+
+[ 2020-09-23T07:34:49+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002255s ]
+

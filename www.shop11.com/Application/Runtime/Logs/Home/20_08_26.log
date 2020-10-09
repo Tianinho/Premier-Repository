@@ -1,0 +1,711 @@
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Undefined variable: name D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014150s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/wancom.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/header.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+ERR: 非法操作:header.htm
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/frame.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/footer.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001761s ]
+ERR: 非法操作:footer.htm
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/notebook.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/earphone.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/list1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/tabbody2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2020-08-26T01:43:22+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/list2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2020-08-26T01:50:31+08:00 ] ::1 /www.shop11.com/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Undefined variable: name D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000817s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000873s ]
+
+[ 2020-08-26T01:50:31+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/frame.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2020-08-26T01:50:31+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/wancom.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+
+[ 2020-08-26T01:50:31+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/earphone.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+
+[ 2020-08-26T01:50:31+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001486s ]
+
+[ 2020-08-26T01:50:31+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+
+[ 2020-08-26T01:50:32+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/notebook.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001669s ]
+
+[ 2020-08-26T01:50:32+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+
+[ 2020-08-26T01:50:32+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2020-08-26T01:50:32+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/tabbody2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+
+[ 2020-08-26T01:50:32+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/list1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+
+[ 2020-08-26T01:50:32+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+
+[ 2020-08-26T01:50:32+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/list2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+
+[ 2020-08-26T01:50:32+08:00 ] ::1 /www.shop11.com/index.php/home/index/header.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000986s ]
+ERR: 非法操作:header.htm
+
+[ 2020-08-26T01:50:32+08:00 ] ::1 /www.shop11.com/index.php/home/index/footer.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001225s ]
+ERR: 非法操作:footer.htm
+
+[ 2020-08-26T03:27:19+08:00 ] ::1 /www.shop11.com/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2020-08-26T03:27:37+08:00 ] ::1 /www.shop11.com/index.php/home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2020-08-26T03:27:43+08:00 ] ::1 /www.shop11.com/index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2020-08-26T03:29:13+08:00 ] ::1 /www.shop11.com/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2020-08-26T03:29:45+08:00 ] ::1 /www.shop11.com/index.php/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011185s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011248s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001127s ]
+
+[ 2020-08-26T03:29:45+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2020-08-26T03:29:45+08:00 ] ::1 /www.shop11.com/index.php/home/index/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001732s ]
+ERR: 非法操作:css
+
+[ 2020-08-26T03:29:45+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+
+[ 2020-08-26T03:29:45+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2020-08-26T03:29:45+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/bnt_ur_reg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+
+[ 2020-08-26T03:29:45+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2020-08-26T03:29:45+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2020-08-26T03:29:45+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2020-08-26T03:30:15+08:00 ] ::1 /www.shop11.com/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013130s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000627s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2020-08-26T03:30:15+08:00 ] ::1 /www.shop11.com/index.php/home/index/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001308s ]
+ERR: 非法操作:js
+
+[ 2020-08-26T03:30:15+08:00 ] ::1 /www.shop11.com/index.php/home/index/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+ERR: 非法操作:css
+
+[ 2020-08-26T03:30:15+08:00 ] ::1 /www.shop11.com/index.php/home/index/css/layout.css?id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001830s ]
+ERR: 非法操作:css
+
+[ 2020-08-26T03:30:15+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/ad-01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/ad-02.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/promote-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/ad-03.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/promote-2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/ad-04.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/promote-3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/header.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+ERR: 非法操作:header.htm
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/laser-pen.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/footer.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001745s ]
+ERR: 非法操作:footer.htm
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/mouse.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/earphone.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/wancom.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/frame.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+
+
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/list1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/tabbody2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001054s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/list2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2020-08-26T03:30:16+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+
+[ 2020-08-26T23:32:37+08:00 ] ::1 /www.shop11.com/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002465s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017480s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001195s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002347s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021136s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021220s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001656s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002369s ]
+ERR: 非法操作:css
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/css/layout.css?id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002150s ]
+ERR: 非法操作:css
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003630s ]
+ERR: 非法操作:js
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/ad-04.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/ad-01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/promote-2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/ad-03.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/promote-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/ad-02.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001526s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/header.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001480s ]
+ERR: 非法操作:header.htm
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/promote-3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/mouse.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001838s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/wancom.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/frame.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+
+
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/footer.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003393s ]
+ERR: 非法操作:footer.htm
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/earphone.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001626s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/notebook.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/show5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001627s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/list1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/tabbody2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+
+[ 2020-08-26T23:32:47+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/list2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+
+[ 2020-08-26T23:32:52+08:00 ] ::1 /www.shop11.com/index.php/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002057s ]
+
+[ 2020-08-26T23:32:52+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+
+[ 2020-08-26T23:32:52+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2020-08-26T23:32:52+08:00 ] ::1 /www.shop11.com/index.php/home/index/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002176s ]
+ERR: 非法操作:css
+
+[ 2020-08-26T23:32:52+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+
+[ 2020-08-26T23:32:52+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/bnt_ur_reg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+
+[ 2020-08-26T23:32:52+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2020-08-26T23:32:52+08:00 ] ::1 /www.shop11.com/index.php/home/index/images/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+

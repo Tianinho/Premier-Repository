@@ -1,0 +1,330 @@
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+ERR: 无法加载模块:Js
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+ERR: 无法加载模块:Css
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/css/layout.css?id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001056s ]
+ERR: 无法加载模块:Css
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/ad-01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/ad-04.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/ad-02.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/promote-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/promote-2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/header.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+ERR: 无法加载模块:Header
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/footer.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+ERR: 无法加载模块:Footer
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/promote-3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/mouse.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/laser-pen.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/earphone.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/wancom.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/frame.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/notebook.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/show1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001613s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/show5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/show2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/show4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/tabbody2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/list1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/list2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:47:15+08:00 ] ::1 /www.shop11.com/index.php/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+ERR: 无法加载模块:Css
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/css/layout.css?id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Css
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+ERR: 无法加载模块:Js
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/images/ad-01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/images/ad-02.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/images/ad-04.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001739s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/images/promote-2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/images/ad-03.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/images/promote-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/header.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+ERR: 无法加载模块:Header
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/footer.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+ERR: 无法加载模块:Footer
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/images/promote-3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/images/laser-pen.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/images/mouse.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001313s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/images/earphone.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:22+08:00 ] ::1 /www.shop11.com/index.php/images/wancom.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:23+08:00 ] ::1 /www.shop11.com/index.php/images/frame.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:23+08:00 ] ::1 /www.shop11.com/index.php/images/notebook.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001860s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:23+08:00 ] ::1 /www.shop11.com/index.php/images/show1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:23+08:00 ] ::1 /www.shop11.com/index.php/images/show2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:23+08:00 ] ::1 /www.shop11.com/index.php/images/show5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:23+08:00 ] ::1 /www.shop11.com/index.php/images/show4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001304s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:23+08:00 ] ::1 /www.shop11.com/index.php/images/tabbody2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:23+08:00 ] ::1 /www.shop11.com/index.php/images/list1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:23+08:00 ] ::1 /www.shop11.com/index.php/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T00:51:23+08:00 ] ::1 /www.shop11.com/index.php/images/list2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Images
+
+[ 2020-08-27T03:14:39+08:00 ] ::1 /www.shop11.com/Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+ERR: 无法加载模块:Public
+
+[ 2020-08-27T03:15:01+08:00 ] ::1 /www.shop11.com/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+ERR: 无法加载模块:Css
+
+[ 2020-08-27T20:04:57+08:00 ] ::1 /www.shop11.com/Public/Home/layer/css/bootstrap.min14ed.css?v=3.3.6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Public
+
+[ 2020-08-27T20:05:01+08:00 ] ::1 /www.shop11.com/Public/Home/layer/css/bootstrap.min14ed.css?v=3.3.6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Public
+

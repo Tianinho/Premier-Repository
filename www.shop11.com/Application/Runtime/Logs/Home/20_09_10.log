@@ -1,0 +1,706 @@
+[ 2020-09-10T00:07:38+08:00 ] ::1 /www.shop11.com/Home/Note/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001130s ]
+
+[ 2020-09-10T00:07:38+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001186s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001302s ]
+
+[ 2020-09-10T20:02:24+08:00 ] ::1 /www.shop11.com/Home/Note/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008773s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000996s ]
+
+[ 2020-09-10T20:02:24+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000843s ]
+
+[ 2020-09-10T20:03:02+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `s11_note` [ RunTime:0.0088s ]
+SQL: INSERT INTO `s11_note` (`title`,`content`,`ip`,`image`) VALUES ('qie','pgggg','0','Note/2020-09-10/5f5a15f4ce91f.jpg') [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014842s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002394s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002909s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002990s ]
+
+[ 2020-09-10T20:03:06+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001364s ]
+SQL: SHOW COLUMNS FROM `s11_note` [ RunTime:0.0145s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s11_note` LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `s11_note` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined index: title D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 25 行.
+NOTIC: [8] Undefined index: start D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 27 行.
+NOTIC: [8] Undefined index: end D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013101s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001161s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001206s ]
+
+[ 2020-09-10T20:09:41+08:00 ] ::1 /www.shop11.com/Home/Note/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008416s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001385s ]
+
+[ 2020-09-10T20:09:41+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001447s ]
+
+[ 2020-09-10T20:10:02+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 不存在的图像文件
+
+[ 2020-09-10T20:10:14+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001156s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001249s ]
+
+[ 2020-09-10T20:10:37+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000759s ]
+
+[ 2020-09-10T20:10:46+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 不存在的图像文件
+
+[ 2020-09-10T20:12:40+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002110s ]
+
+[ 2020-09-10T20:12:53+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `s11_note` [ RunTime:0.0131s ]
+SQL: INSERT INTO `s11_note` (`title`,`content`,`ip`,`image`) VALUES ('ooo','fffff','0','Note/2020-09-10/big_5f5a18437017b.jpg') [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2020-09-10T20:12:56+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `s11_note` [ RunTime:0.0143s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s11_note` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `s11_note` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: title D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 25 行.
+NOTIC: [8] Undefined index: start D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 27 行.
+NOTIC: [8] Undefined index: end D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011964s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001055s ]
+
+[ 2020-09-10T20:20:49+08:00 ] ::1 /www.shop11.com/Home/Note/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001035s ]
+
+[ 2020-09-10T20:20:49+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2020-09-10T20:21:00+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2020-09-10T20:21:01+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2020-09-10T20:21:10+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2020-09-10T20:25:19+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+NOTIC: [8] Undefined index: title D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Home\Controller\NoteController.class.php 第 104 行.
+NOTIC: [8] Undefined index: content D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Home\Controller\NoteController.class.php 第 105 行.
+NOTIC: [8] Undefined index: captcha D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Home\Controller\NoteController.class.php 第 106 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000867s ]
+
+[ 2020-09-10T20:25:22+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2020-09-10T20:25:33+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2020-09-10T20:26:32+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+SQL: SHOW COLUMNS FROM `s11_note` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s11_note` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `s11_note` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: title D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 25 行.
+NOTIC: [8] Undefined index: start D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 27 行.
+NOTIC: [8] Undefined index: end D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2020-09-10T20:28:25+08:00 ] ::1 /www.shop11.com/Home/Note/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008912s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000983s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001040s ]
+
+[ 2020-09-10T20:28:25+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001716s ]
+
+[ 2020-09-10T20:28:36+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2020-09-10T20:28:38+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000834s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000901s ]
+
+[ 2020-09-10T20:28:45+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2020-09-10T20:30:10+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+SQL: SHOW COLUMNS FROM `s11_note` [ RunTime:0.0152s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s11_note` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `s11_note` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+NOTIC: [8] Undefined index: title D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 25 行.
+NOTIC: [8] Undefined index: start D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 27 行.
+NOTIC: [8] Undefined index: end D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000557s ]
+
+[ 2020-09-10T20:30:11+08:00 ] ::1 /www.shop11.com/Home/Note/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010962s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000967s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2020-09-10T20:30:11+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001658s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001193s ]
+
+[ 2020-09-10T20:30:30+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2020-09-10T20:31:20+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001557s ]
+
+[ 2020-09-10T20:31:32+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2020-09-10T20:34:17+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+NOTIC: [8] Undefined index: title D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Home\Controller\NoteController.class.php 第 104 行.
+NOTIC: [8] Undefined index: content D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Home\Controller\NoteController.class.php 第 105 行.
+NOTIC: [8] Undefined index: captcha D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Home\Controller\NoteController.class.php 第 106 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+
+[ 2020-09-10T20:34:20+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001008s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001085s ]
+
+[ 2020-09-10T20:34:29+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2020-09-10T20:34:30+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000965s ]
+
+[ 2020-09-10T20:34:31+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000942s ]
+
+[ 2020-09-10T20:34:42+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2020-09-10T20:35:36+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007660s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001139s ]
+
+[ 2020-09-10T20:35:36+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001028s ]
+
+[ 2020-09-10T20:35:44+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000713s ]
+
+[ 2020-09-10T20:35:44+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2020-09-10T20:35:45+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2020-09-10T20:35:52+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2020-09-10T20:38:42+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2020-09-10T20:38:42+08:00 ] ::1 /www.shop11.com/Home/Note/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2020-09-10T20:38:58+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+

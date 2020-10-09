@@ -1,0 +1,26 @@
+[ 2020-10-07T20:57:14+08:00 ] ::1 /www.shop11.com/index.php/Home/Note/lst/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001054s ]
+SQL: SHOW COLUMNS FROM `s11_note` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s11_note` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `s11_note` ORDER BY id DESC LIMIT 0,10   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8] Undefined index: title D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 43 行.
+NOTIC: [8] Undefined index: start D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 45 行.
+NOTIC: [8] Undefined index: end D:\PhPStudy\PHPTutorial\WWW\www.shop11.com\Application\Runtime\Cache\Home\4ba7141b924aef68be03ba09e32f2e51.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012057s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000979s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001831s ]
+

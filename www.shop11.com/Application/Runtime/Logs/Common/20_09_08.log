@@ -1,0 +1,12 @@
+[ 2020-09-08T23:02:17+08:00 ] ::1 /www.shop11.com/index.php/Public/Uploads/5f579cb1df913.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Public
+
+[ 2020-09-08T23:02:17+08:00 ] ::1 /www.shop11.com/index.php/Public/Uploads/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+ERR: 无法加载模块:Public
+
