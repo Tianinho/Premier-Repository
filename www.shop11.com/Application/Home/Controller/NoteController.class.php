@@ -77,7 +77,7 @@ class NoteController extends Controller{
 
 		//插入数据库并返回新添加记录的ID
 		$model = D('Note'); //生成Note类的对象
-		$id = $model->where([
+		$id2 = $model->where([
 			'id'=>$id, 
 		])-> save($data);
 

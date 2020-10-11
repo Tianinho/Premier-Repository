@@ -3,9 +3,11 @@
 <head>
 	<title>修改留言</title>
 	<meta charset='utf-8'>
+	<!--导入Bootstrap-->
 	<link rel="stylesheet" type="text/css" href="/www.shop11.com/Public/bootstrap-3.3.7-dist/css/bootstrap.css">
 </head>
 
+<!--Bootstrap代码-->
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
